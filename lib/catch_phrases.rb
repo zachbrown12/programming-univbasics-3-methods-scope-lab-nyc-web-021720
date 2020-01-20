@@ -1,8 +1,8 @@
 
 status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-phrease = "It's-a me, Mario!"
 
 def mario
+  phrease = "It's-a me, Mario!"
   puts phrase
 end
 
@@ -11,10 +11,11 @@ def toadstool
 end
 
 def link
-"It's Dangerous To Go Alone! Take This.\n"
+ linkphrase =  "It's Dangerous To Go Alone! Take This.\n"
 end
 
-def any_phrase(anyphrase)
+def any_phrase(phrase)
+  
   
 
 
