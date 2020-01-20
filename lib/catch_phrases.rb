@@ -1,6 +1,6 @@
 
 def mario
-  phrease = "It's-a me, Mario!\n"
+  phrease = "It's-a me, Mario!"
   puts phrase
 end
 
@@ -10,12 +10,13 @@ def toadstool
 end
 
 def link
-  phrase = "It's Dangerous To Go Alone! Take This.\n"
-end
- linkphrase =  "It's Dangerous To Go Alone! Take This.\n"
+  phrase = "It's Dangerous To Go Alone! Take This."
+ phrase =  "It's Dangerous To Go Alone! Take This."
 end
 
 def any_phrase(phrase)
+  phrase = "Do a Barrel Roll!"
+end
   
   
 
