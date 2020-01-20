@@ -1,6 +1,6 @@
 
 status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-phrease = "It's-a me, Mario!\n"
+phrease = "It's-a me, Mario!"
 
 def mario
   puts phrase
